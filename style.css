@@ -1,39 +1,5 @@
-.face{
-    height: 400px;
-    width: 400px;
-    background-color: #faa511;
-    border-radius: 50%;
-}
-.mouth{
-    height: 75px;
-    width: 200px;
-    border-radius: 0 0 50px 50px;
-    background-color: brown;
-    position: absolute;
-    top: 250px;
-    left: 100px;
-   
-}
-.left-eyes{
-    height: 50px;
-    width: 50px;
-    border-radius: 50%;
-    background-color: black;
-    position: absolute;
-    top: 100px;
-    left:100px;
-
-
-}
-
-
-.right-eyes {
-    height: 50px;
-    width: 50px;
-    border-radius: 50%;
-    background-color: black;
-    position: absolute;
-    top: 100px;
-    left:250px;
+p:hover{
+    background-color: #00ffff;
+    font-size: larger;
     
- }
+}
